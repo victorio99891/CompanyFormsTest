@@ -1,0 +1,10 @@
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\bin\Debug\CompanyWorkerEdit.exe
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\bin\Debug\CompanyWorkerEdit.pdb
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.csprojAssemblyReference.cache
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.MainWindow.resources
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.Properties.Resources.resources
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.csproj.GenerateResource.cache
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.exe
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.pdb
+C:\Users\Wiktor\source\repos\CompanyWorkerEdit\CompanyWorkerEdit\obj\Debug\CompanyWorkerEdit.EditEmployeeWindow.resources
